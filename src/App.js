@@ -185,7 +185,7 @@ function App() {
   return (
     <Container maxWidth="md" sx={{ textAlign: "center", mt: 5 }}>
       <Typography variant="h4" gutterBottom>
-        Realfy Posture App
+        Realfy Posture Detection WebApp
       </Typography>
 
       <Stack spacing={2} direction="row" justifyContent="center" sx={{ mt: 4 }}>
