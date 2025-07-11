@@ -6,10 +6,10 @@ This is the frontend code for the Realfy Posture App, which analyzes user postur
 
 ## 🚀 Tech Stack Used
 
-- React.js
-- JavaScript
-- HTML/CSS
-- Vercel (deployment)
+- **React.js** (Vite / CRA)
+- **Material UI** (MUI)
+- **Recharts** (charting)
+- **Fetch API** (for backend communication)
 
 ---
 
