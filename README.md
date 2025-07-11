@@ -1,70 +1,53 @@
-# Getting Started with Create React App
+# Realfy Posture App – Frontend
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This is the frontend code for the Realfy Posture App, which analyzes user posture from videos and flags bad posture in real time.
 
-## Available Scripts
+---
 
-In the project directory, you can run:
+## 🚀 Tech Stack Used
 
-### `npm start`
+- React.js
+- JavaScript
+- HTML/CSS
+- Vercel (deployment)
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+---
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## 🛠 Setup Instructions (Run Locally)
 
-### `npm test`
+1. Clone the repository:
+    ```
+    git clone <YOUR_FRONTEND_REPO_URL>
+    ```
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+2. Install dependencies:
+    ```
+    npm install
+    ```
 
-### `npm run build`
+3. Start the development server:
+    ```
+    npm start
+    ```
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+4. Open your browser at:
+    ```
+    http://localhost:3000
+    ```
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+> **Important:**  
+> Make sure your backend server is running locally or update the API URL in your frontend code to point to your deployed backend endpoint.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+---
 
-### `npm run eject`
+## 🌐 Deployed Frontend App
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+[🔗 Click here to open the live app on Vercel](YOUR_DEPLOYED_FRONTEND_URL)
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+---
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+## 🎥 Demo Video
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+[▶️ Watch the demo video](YOUR_DEMO_VIDEO_LINK)
 
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+---
