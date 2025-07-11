@@ -48,6 +48,6 @@ https://realfy-posture-app-frontend.vercel.app/
 
 ## 🎥 Demo Video
 
-[▶️ Watch the demo video](YOUR_DEMO_VIDEO_LINK)
+https://drive.google.com/drive/folders/1ntz97dV1T0pvDuvKzlhxmjId_-9wDavZ?usp=drive_link
 
 ---
