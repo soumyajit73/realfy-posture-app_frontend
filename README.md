@@ -4,6 +4,21 @@ This is the frontend code for the Realfy Posture App, which analyzes user postur
 
 ---
 
+## 🔗 How It Works (Frontend + Backend Workflow)
+
+- The user records a short video of themselves using the web app’s recording feature.
+- The frontend sends the recorded video to the backend via an HTTP POST request.
+- The backend:
+  - Receives the video
+  - Processes video frames with Mediapipe to detect body landmarks
+  - Analyzes posture angles
+  - Flags any bad posture
+  - Sends a JSON response with posture analysis
+- The frontend:
+  - Displays the results to the user
+  - Shows whether posture is good or bad
+
+
 ## 🚀 Tech Stack Used
 
 - **React.js** (Vite / CRA)
