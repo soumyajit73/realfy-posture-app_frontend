@@ -17,7 +17,7 @@ This is the frontend code for the Realfy Posture App, which analyzes user postur
 
 1. Clone the repository:
     ```
-    [git clone <YOUR_FRONTEND_REPO_URL>](https://github.com/soumyajit73/realfy-posture-app_frontend)
+    [git clone https://github.com/soumyajit73/realfy-posture-app_frontend]
     ```
 
 2. Install dependencies:
