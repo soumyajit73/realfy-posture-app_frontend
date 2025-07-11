@@ -55,7 +55,7 @@ function App() {
     formData.append("file", file);
 
     try {
-      const response = await fetch("https://realfy-posture-app-backend.onrender.com/upload-video/", {
+      const response = await fetch("https://realfy-posture-app-backend.onrender.com/upload-video", {
         method: "POST",
         body: formData,
       });
