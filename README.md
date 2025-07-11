@@ -61,6 +61,12 @@ https://realfy-posture-app-frontend.vercel.app/
 
 ---
 
+⚠️ Notes
+- The backend used by the frontend is hosted on **Render’s free tier**, which may go to sleep when idle. This can cause **20–30 seconds delay** on the first request while the server wakes up.
+- You might sometimes see a **502 Bad Gateway** error if the backend is waking up or under load. Wait a few seconds and refresh, or try again.
+  
+---
+
 ## 🎥 Demo Video
 
 https://drive.google.com/drive/folders/1ntz97dV1T0pvDuvKzlhxmjId_-9wDavZ?usp=drive_link
