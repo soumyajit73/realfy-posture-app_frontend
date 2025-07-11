@@ -15,7 +15,7 @@ This is the frontend code for the Realfy Posture App, which analyzes user postur
   - Flags any bad posture
   - Sends a JSON response with posture analysis
 - The frontend:
-  - Displays the results to the user
+  - Displays the results to the user in the form of visual graphs
   - Shows whether posture is good or bad
 
 
