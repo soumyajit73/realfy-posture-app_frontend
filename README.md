@@ -42,7 +42,7 @@ This is the frontend code for the Realfy Posture App, which analyzes user postur
 
 ## 🌐 Deployed Frontend App
 
-[🔗 Click here to open the live app on Vercel]((https://realfy-posture-app-frontend.vercel.app/))
+https://realfy-posture-app-frontend.vercel.app/
 
 ---
 
